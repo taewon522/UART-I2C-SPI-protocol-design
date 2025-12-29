@@ -4,5 +4,5 @@
 
 ## LINK
 - **UART :** <a href="https://github.com/taewon522/APB-Design-and-Verification">[Verilog] APB Design & Verification</a>
-- **I2C  :** <a href="https://github.com/taewon522/APB-Design-and-Verification">[Verilog] AXI-Lite Design & Verification</a>
+- **I2C  :** <a href="https://github.com/taewon522/I2C_Inter-Integrated-Circuit">[Verilog] AXI-Lite Design & Verification</a>
 - **SPI  :** <a href="https://github.com/taewon522/APB-Design-and-Verification">[Verilog] AXI-Lite Design & Verification</a>
